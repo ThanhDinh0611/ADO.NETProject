@@ -1,0 +1,9 @@
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\obj\Debug\BUS_DNTU_DaoTao.csprojResolveAssemblyReference.cache
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\bin\Debug\BUS_DNTU_DaoTao.dll
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\bin\Debug\BUS_DNTU_DaoTao.pdb
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\bin\Debug\DAL_DNTU_DaoTao.dll
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\bin\Debug\DTO_DNTU_DaoTao.dll
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\bin\Debug\DAL_DNTU_DaoTao.pdb
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\bin\Debug\DTO_DNTU_DaoTao.pdb
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\obj\Debug\BUS_DNTU_DaoTao.dll
+D:\Studying\ADO.NET\DNTU_DaoTao\BUS_DNTU_DaoTao\obj\Debug\BUS_DNTU_DaoTao.pdb

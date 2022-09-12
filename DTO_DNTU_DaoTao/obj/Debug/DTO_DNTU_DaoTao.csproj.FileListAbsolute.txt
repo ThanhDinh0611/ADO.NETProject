@@ -1,0 +1,5 @@
+D:\Studying\ADO.NET\DNTU_DaoTao\DTO_DNTU_DaoTao\bin\Debug\DTO_DNTU_DaoTao.dll
+D:\Studying\ADO.NET\DNTU_DaoTao\DTO_DNTU_DaoTao\bin\Debug\DTO_DNTU_DaoTao.pdb
+D:\Studying\ADO.NET\DNTU_DaoTao\DTO_DNTU_DaoTao\obj\Debug\DTO_DNTU_DaoTao.csprojResolveAssemblyReference.cache
+D:\Studying\ADO.NET\DNTU_DaoTao\DTO_DNTU_DaoTao\obj\Debug\DTO_DNTU_DaoTao.dll
+D:\Studying\ADO.NET\DNTU_DaoTao\DTO_DNTU_DaoTao\obj\Debug\DTO_DNTU_DaoTao.pdb
