@@ -72,6 +72,11 @@
     <Compile Include="DangNhap.Designer.cs">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="DNTU_DaoTaoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DNTU_DaoTaoDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -144,6 +149,17 @@
       <DependentUpon>QLSinhVien.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="App.config" />
+    <None Include="DNTU_DaoTaoDataSet.xsc">
+      <DependentUpon>DNTU_DaoTaoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DNTU_DaoTaoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DNTU_DaoTaoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DNTU_DaoTaoDataSet.xss">
+      <DependentUpon>DNTU_DaoTaoDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

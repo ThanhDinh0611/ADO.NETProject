@@ -83,7 +83,6 @@ namespace DNTU_DaoTao
         {
             string inputUsername = txtUsername.Text;
             string inputPassword = txtPassword.Text;
-            
            
             DataTable tb = _sql.loadTable("select * from USERS where username = '" + inputUsername + "'");
             if (tb.Rows.Count == 0)
@@ -96,14 +95,14 @@ namespace DNTU_DaoTao
                 MessageBox.Show("Mật khẩu không chính xác, xin kiểm tra lại thông tin!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            else if (tb.Rows[0][2].ToString() == "Quản trị viên")
+            else if (tb.Rows[0][2].ToString() == "admin")
             {
                 QLSinhVien frm = new QLSinhVien(inputUsername);
                 this.Visible = false;
                 frm.ShowDialog();
                 this.Close();
             }
-            else if (tb.Rows[0][2].ToString() == "Giáo viên") {
+            else if (tb.Rows[0][2].ToString() == "teacher") {
                 QLDiem frm = new QLDiem(inputUsername);
                 this.Visible = false;
                 frm.ShowDialog();

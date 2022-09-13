@@ -11,7 +11,7 @@ namespace DNTU_DaoTao
 {
     class sql
     {
-        string _connectionString = "Data Source=.; Initial Catalog=DNTU_DaoTao; User ID=sa; password=123456";
+        string _connectionString = "Data Source=Thanh-Thinkpad;Initial Catalog=DNTU_DaoTao; User ID=sa; password=123456";
         SqlConnection _sqlConnection;
         SqlCommand _sqlCommand;
         SqlDataAdapter _sqlAdapter;
